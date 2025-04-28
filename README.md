@@ -38,8 +38,8 @@ I am a passionate UI developer with a strong focus on advanced CSS, SCSS, access
 - Website: [canozcan.in]
 
 ---
-⭐️ From [CanozcanJotform](https://github.com/CanozcanJotform)
 
+1205 contributions in the last year 🎨
 
 <p align="center">
   <picture>
