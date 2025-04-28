@@ -39,3 +39,8 @@ I am a passionate UI developer with a strong focus on advanced CSS, SCSS, access
 
 ---
 ⭐️ From [CanozcanJotform](https://github.com/CanozcanJotform)
+
+## Watch my contribution graph snake 🐍
+
+![Snake animation](https://raw.githubusercontent.com/celalcanozcan96/celalcanozcan96/output/github-contribution-grid-snake.svg)
+
