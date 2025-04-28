@@ -39,7 +39,7 @@ I am a passionate UI developer with a strong focus on advanced CSS, SCSS, access
 
 ---
 
-<p align="center">1205 contributions in the last year 🎨 </p>
+<p align="center"> 🐍 🪄 </p>
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CanozcanJotform/CanozcanJotform/main/dist/github-snake-dark.svg" />
