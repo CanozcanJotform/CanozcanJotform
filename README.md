@@ -40,7 +40,6 @@ I am a passionate UI developer with a strong focus on advanced CSS, SCSS, access
 ---
 ⭐️ From [CanozcanJotform](https://github.com/CanozcanJotform)
 
-## 🐍 Watch my GitHub Contribution Graph Snake Animation!
 
 <p align="center">
   <picture>
