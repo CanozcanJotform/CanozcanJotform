@@ -11,8 +11,8 @@
 I am a passionate UI developer with a strong focus on advanced CSS, SCSS, accessibility, and user interface design. I am highly curious, growth-oriented, and continuously expanding my knowledge to create impactful, user-friendly, and accessible web experiences.
 
 ## 🛠 Skills
-- Frontend Development: HTML, CSS, SCSS, React
-- Tools & Others: Git
+- Frontend Development: HTML, CSS, Javascript, React
+- Tools & Others: Git, GitHub, VS Code, Figma, ESLint, Prettier, Webpack, npm, yarn, Jira
 
 ## 📊 GitHub Stats
 <div align="center">
