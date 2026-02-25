@@ -1,12 +1,10 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=38&pause=1000&color=6AD3F7&center=true&vCenter=true&width=780&lines=Hi+👋;I'm+Can+Özcan;Welcome+to+my+profile!" alt="Typing SVG" />
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f0c29,25:1a1a40,50:16213e,75:0f3460,100:0f0c29&text=Can%20%C3%96zcan&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=40" />
+</p>
 
-<div align="center">
-  <a href="https://canozcan.in" target="_blank">
-    🌐 Visit My Personal Website (Under Construction 🚧)
-  </a>
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=34&duration=1500&pause=999999&color=3DDCFF&center=true&vCenter=true&width=450&lines=UI+Developer" />
+</p>
 
 ---
 
@@ -48,7 +46,7 @@
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍  Contribution Snake
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CanozcanJotform/CanozcanJotform/main/dist/github-snake-dark.svg" />
